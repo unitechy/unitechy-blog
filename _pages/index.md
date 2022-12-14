@@ -5,7 +5,6 @@ id: home
 permalink: /
 ---
 
-# Welcome
 
 Maintaining notes here. 
 
