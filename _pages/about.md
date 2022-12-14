@@ -4,6 +4,6 @@ title: About
 permalink: /about
 ---
 
-*This is an about page.*
+Hello! Welcome to Myspace 🤣
 
-Feel free to tell the world about what you love! 😍
+My Blog on random topics is located [here](http://unitechy.com)
