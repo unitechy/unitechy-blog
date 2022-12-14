@@ -7,6 +7,9 @@ Month: December
 Cuisine: 
 Author: 
 Link: https://www.youtube.com/watch?v=aVSQj-FsSSY&t=1s&ab_channel=DANFELLOWScoffee%2Bcocktails
+layout: note
+
+permalink: /coffee-saccharum
 ---
 
 
