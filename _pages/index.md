@@ -8,6 +8,6 @@ permalink: /
 
 Maintaining notes here. 
 
-[[Coffee Saccharum]]
-[[BCBC Bath]]
+- [[Coffee Saccharum]] 
+- [[BCBC Bath]]
 
