@@ -5,8 +5,10 @@ I was one of the founding member of Mumbai Cookbook club, which unfortunately we
 [[Sahil Khan]] and I started with the Bangalore Chapters back in October. So far we've conducted two Potlucks. 
 
 #### All Potlucks
-[[BCBC Bath - Potluck #1]]
-[[BCBC Bath - Potluck #2]]
+- [[BCBC Bath - Potluck 1]]
+- [[BCBC Bath - Potluck 2]]
+
+
 
 #### Recipes I've made so far
 
