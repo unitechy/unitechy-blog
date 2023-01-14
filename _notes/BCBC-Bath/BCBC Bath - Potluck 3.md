@@ -8,7 +8,9 @@ Month: January
 
 For the third installment of the Potluck, we chose Mezcla by Ixta Belfrage. 
 
-I loved that the book isn't strictly Mexican cuisine. It borrows from different cuisines. There's essence of Tadka. She uses Garam Masala in many recipes. 
+I loved that the book isn't strictly Mexican cuisine. It borrows from different cuisines. There's essence of Tadka. She uses Garam Masala in many recipes. I also loved that none of the recipes were too complicated. Most of us found the ingredients within the markets -- Mostly either at Nature's Basket or at Food Hall in Bangalore. 
+
+For the first time in the last 3 Potlucks, there were no leftovers. Everyone consumed everything. Partially because everything was delish. Partly because this is our 3rd Potluck and we've figured out the right quantity to cook? Perhaps. 
 
 #### List of dishes we had during the Potluck #3
 
